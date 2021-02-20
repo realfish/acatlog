@@ -9,12 +9,26 @@
 	],
 "creatorBuild": "33081",
 "files": {
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/docs/.gitignore",
+		"oF": 1
+		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 2,
 		"oAP": "/docs/CNAME",
+		"oF": 0
+		},
+	"/design": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/docs/design",
 		"oF": 0
 		},
 	"/docs": {
@@ -180,7 +194,7 @@
 	"/src/javascript/app.js": {
 		"bF": 4,
 		"ft": 64,
-		"ma": 1,
+		"ma": 0,
 		"mi": 0,
 		"oA": 0,
 		"oAP": "/docs/assets/app.js",
@@ -372,7 +386,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "logo-react",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 635536523.31798995
+	"lastBuiltDate": 635540061.88958001
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,

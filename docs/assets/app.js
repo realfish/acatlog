@@ -41,7 +41,7 @@
 	    setTimeout(function () {
 	      var $header = doc.querySelector('.header');
 	      $header.classList.add('is-loaded');
-	    }, 500);
+	    }, 1500);
 	  });
 	}
 
@@ -60,4 +60,3 @@
 	}
 
 }());
-//# sourceMappingURL=app.js.map
