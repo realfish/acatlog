@@ -7,7 +7,7 @@ win.addEventListener('load', () => {
 	setTimeout(() => {
 		let $header = doc.querySelector('.header');
 		$header.classList.add('is-loaded');
-	}, 500);
+	}, 1500);
 });
 
 }
